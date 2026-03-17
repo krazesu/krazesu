@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Hi, I’m Kriz Greg (Kraze) 👋 I’m an aspiring software engineer with a growing passion for embedded systems, data engineering, and cybersecurity.
+Hi, I’m Kriz Greg (Kraze) 👋 I’m an aspiring software engineer with a growing interests for embedded systems, data engineering, and cybersecurity.
 
 Some of my experiences and projects include
 - Developed a LoRa-based mesh sensor network for mobile air quality monitoring for my undergaduate capstone project
