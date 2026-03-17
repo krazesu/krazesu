@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 Hi, I’m Kriz Greg (Kraze) 👋 I’m an aspiring software engineer with a growing passion for embedded systems, data engineering, and cybersecurity.
 
