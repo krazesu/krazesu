@@ -9,4 +9,4 @@ Academic Projects
 - Digital-Mandala(Python, OOP, DSA)
 
 Personal/Practice Projects
--Pokedex Web App (ReactJS, HTML/CSS, API)
+- Pokedex Web App (ReactJS, HTML/CSS, API)
